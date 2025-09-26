@@ -1,0 +1,24 @@
+Exercici 1: 1.25/2
+(a) 1/1
+(b) 0.5/1
+  Has calculat els euros retornats, però et demanava els diners total pagats.
+
+Exercici 2: 1.5/1.5
+
+Exercici 3: 1/1.5
+No has utilitzat la llibreria math per a donar el valor de pi 
+
+import math
+math.pi
+Tampoc has usat round() per arrodonir a dos decimals. (les dues coses s'especificaven a l'enunciat)
+
+Exercici 4: 3,5/4
+  La ultima_lletra es millor treure-la amb 
+  ultima_lletra = nom[-1]
+
+Així no t'has de posar a comptar indexos! Imagina't que haguessis de comptar índexos amb una frase llarga...
+
+Jupyter: 1/1
+Github: 1/1
+
+Nota final: 9,75/11 --> 8,86
